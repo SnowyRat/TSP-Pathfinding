@@ -1,0 +1,19 @@
+digraph CityConnections {
+  node [shape=circle];
+  "Kaunas" -> "Alicante" [label="Cost: 143.99, Time: 14100"];
+  "Kaunas" -> "Bristol" [label="Cost: 55.74, Time: 10800"];
+  "Kaunas" -> "Brussels" [label="Cost: 59.49, Time: 8700"];
+  "Kaunas" -> "Cologne" [label="Cost: 31.39, Time: 7800"];
+  "Alicante" -> "Bristol" [label="Cost: 130.99, Time: 9000"];
+  "Alicante" -> "Brussels" [label="Cost: 54.74, Time: 9000"];
+  "Alicante" -> "Cologne" [label="Cost: 64.99, Time: 9600"];
+  "Alicante" -> "Kaunas" [label="Cost: 124.74, Time: 13800"];
+  "Bristol" -> "Alicante" [label="Cost: 68.4603, Time: 8700"];
+  "Bristol" -> "Cologne" [label="Cost: 61.5435, Time: 5100"];
+  "Bristol" -> "Kaunas" [label="Cost: 82.1546, Time: 9900"];
+  "Brussels" -> "Alicante" [label="Cost: 78.99, Time: 9000"];
+  "Brussels" -> "Kaunas" [label="Cost: 32.99, Time: 8100"];
+  "Cologne" -> "Alicante" [label="Cost: 46.99, Time: 9600"];
+  "Cologne" -> "Bristol" [label="Cost: 44.99, Time: 5400"];
+  "Cologne" -> "Kaunas" [label="Cost: 19.39, Time: 7200"];
+}

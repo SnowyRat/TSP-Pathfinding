@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kompiuteris\\Desktop\\IIKursas\\Algoritmu sudarymas ir analize\\ld3\\ASAIP1Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958C097F-228C-47D7-8B49-008A436DE0E5}|ASAIP1Test\\ASAIP1Test.csproj|c:\\users\\kompiuteris\\desktop\\iikursas\\algoritmu sudarymas ir analize\\ld3\\asaip1test\\asaip1test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958C097F-228C-47D7-8B49-008A436DE0E5}|ASAIP1Test\\ASAIP1Test.csproj|solutionrelative:asaip1test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\IIKursas\\Algoritmu sudarymas ir analize\\ld3\\ASAIP1Test\\ASAIP1Test\\Program.cs",
+              "RelativeDocumentMoniker": "ASAIP1Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\IIKursas\\Algoritmu sudarymas ir analize\\ld3\\ASAIP1Test\\ASAIP1Test\\Program.cs",
+              "RelativeToolTip": "ASAIP1Test\\Program.cs",
+              "ViewState": "AQIAAEUBAAAAAAAAAAAAwCABAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:24:30.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿<Window x:Class="LiveCHart.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf">
+    <Grid>
+        <lvc:CartesianChart Name="FitnessChart">
+            <lvc:CartesianChart.Series>
+                <lvc:LineSeries Title="Fitness" Values="{Binding FitnessValues}"/>
+            </lvc:CartesianChart.Series>
+            <lvc:CartesianChart.AxisX>
+                <lvc:Axis Title="Generation"/>
+            </lvc:CartesianChart.AxisX>
+            <lvc:Axis Title="Fitness" Position="LeftBottom"/>
+        </lvc:CartesianChart>
+    </Grid>
+</Window>
